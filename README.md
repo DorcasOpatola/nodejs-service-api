@@ -11,8 +11,8 @@
 > 
 > - Access the API endpoints through the URLs: comments [here](https://jsonplaceholder.typicode.com/comments) & posts [here](https://jsonplaceholder.typicode.com/posts).
 
-To get a specific number of comments, https://jsonplaceholder.typicode.com/comments?_limit=${limit} where "${limit}"is altered to the number of comments desired.
-For example: [https://jsonplaceholder.typicode.com/comments?_limit=6]() returns six comments.
+- To get a specific number of comments, https://jsonplaceholder.typicode.com/comments?_limit=${limit} where "${limit}"is altered to the number of comments desired.
+For example: [https://jsonplaceholder.typicode.com/comments?_limit=6] returns six comments.
 
-To get a specific number of posts, https://jsonplaceholder.typicode.com/posts?_limit=${limit} where "${limit}" is altered to the number of posts desired.
-For example: [https://jsonplaceholder.typicode.com/posts?_limit=4]() returns four posts.
+- To get a specific number of posts, https://jsonplaceholder.typicode.com/posts?_limit=${limit} where "${limit}" is altered to the number of posts desired.
+For example: [https://jsonplaceholder.typicode.com/posts?_limit=4] returns four posts.
